@@ -1,6 +1,4 @@
-# Keresztrejtvény Feladat
-
-**Azonosító jel:**  
+# Keresztrejtvény Feladat  
 
 **40 pont**  
 
